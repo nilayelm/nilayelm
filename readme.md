@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hello World :)](https://github.com/nilayelm/First-Code)
 
-- 🌱 I’m currently learning **VS Code Studio**
+- 🌱 I’m currently learning **VS Code Studio, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nilayelm](https://github.com/nilayelm)
 
